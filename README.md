@@ -25,8 +25,10 @@ The website contains six pages:
 
 All pages of the website can be accessed through the navigational menu at the top of each page.
 
-Links to my professional social accounts, LinkedIn, Github, Twitter, Facebook and Instagram(my freelance business accounts) are also made available to the user within the footer of the website. 
+Links to my professional social accounts, LinkedIn, Github, Twitter, Facebook and Instagram (my freelance business accounts) are also made available to the user within the footer of the website. 
 The idea of also showcasing my freelance business within my portfolio, via my social accounts, aims at demonstrating my skills and ability to manage a small business and my experience with client relationships. I feel this feature is an important aspect to showcasing my experience not only as a web developer but also in other aspects of the working industry which are also invaluable skills that could be benefical to potential employers. 
+
+All pages of the website are produced with a responsive layout that will display on desktop, mobile and tablet devices and have been built for accessibility to all users.
 
 A style guide was established to ensure consistency accross all pages which share a common theme. This also establishes a personal branding style that reflects who I am both at a personal and professional level. By using the style guide I can ensure that the fonts, colours and main graphics remain consistent accross the whole website. My personal branding consists of visual branding (professional photos) and my web developer logo. The overall look and feel aims to resonate with my own personality and values.  
 
