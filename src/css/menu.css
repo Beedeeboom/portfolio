@@ -9,11 +9,12 @@ li {
 
 header {
     width: 100%;
-    height: 50px;
+    height: 70px;
     line-height: 50px;
     text-align: center;
     font-family: sans-serif;
-    background-color: #3cb8c2;
+    background-color: #d66964;
+    
 }
 .brand {
     width: auto;
@@ -26,6 +27,7 @@ header {
     width: 60%;
     height: 100%;
     float: right;
+    padding: 10px;
 }
 .menu ul {
     width: 100%;
@@ -67,7 +69,7 @@ header {
         text-align: left;
         width: 100%;
         height: 50px;
-        background-color: #f1c40f;
+        background-color: #f7d58b;
         padding: 10px 0px 10px 5%;
     }
     .menu-icon {
@@ -78,6 +80,7 @@ header {
         top: 0;
         right: 0;
         line-height: 60px;
+        padding: 10px 0 10px 10px;
     }
     #menuToggle:checked ~ ul {
         max-height: 350px;
