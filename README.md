@@ -23,7 +23,7 @@ The website contains six pages:
 5. Blog Posts page (blog.html)
 6. Contact Me page (contact.html)
 
-All pages of the website can be accessed through the navigational menu at the top of each page.
+All pages of the website can be accessed through the navigational menu at the top of each page. 
 
 Links to my professional social accounts, LinkedIn, Github, Twitter, Facebook and Instagram (my freelance business accounts) are also made available to the user within the footer of the website. 
 The idea of also showcasing my freelance business within my portfolio, via my social accounts, aims at demonstrating my skills and ability to manage a small business and my experience with client relationships. I feel this feature is an important aspect to showcasing my experience not only as a web developer but also in other aspects of the working industry which are also invaluable skills that could be benefical to potential employers. 
@@ -46,9 +46,18 @@ The website was designed to attract potential employers seeking to employ a deve
 
 ## Tech Stack 
 
-This portfolio was built using HTML & CSS. The graphics and artwork were created using the Adobe Creative Suite, mainly Illustrator for vector images, Indesign for layouts and Photoshop for resizing images to web size.
+This portfolio was built using:
 
-Deployment platform: TBC
+* HTML
+* CSS 
+* Visual Studio 
+* Adobe Illustrator (vector images) 
+* Adobe Indesign for layouts (pdfs)
+* Adobe Photoshop (resizing images to web size)
+* Google fonts 
+* Github (source control & deployment)
+* draw.io (sitemap)
+
 
 
 
