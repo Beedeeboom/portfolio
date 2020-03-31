@@ -19,8 +19,25 @@ p {
     font-family: sans-serif;
 }
 
-h1, h2 {
+h1, h2, h5 {
     font-family: sans-serif;
+}
+
+.button a {
+    background-color: #f7d58b;
+    color: #000;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    margin: 25px 0px 0px 0px;
+    padding: 12px 20px 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button a:hover {
+    background-color: #f5e7e4;
 }
 
 @media screen and (max-width: 767px) {

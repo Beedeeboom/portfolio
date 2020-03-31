@@ -19,6 +19,7 @@ header {
 .brand {
     width: auto;
     height: 100%;
+    /* background: url(../img/coder_web_logo.png) no-repeat; */
     float: left;
     margin: 0 0 0 5%;
     color: #fff;
@@ -55,7 +56,7 @@ header {
 }
 
 /* Hamburger menu for tablet or phone */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
     .menu {
         width: 100%;
         height: auto;
@@ -65,7 +66,7 @@ header {
         display: block;
         max-height: 0;
     	overflow: hidden;
-    	transition: max-height 0.3s;
+        transition: max-height 0.3s;
     }
     .menu ul a {
         text-align: left;
@@ -91,7 +92,8 @@ header {
         padding: 10px 0 10px 10px;
     }
     #menuToggle:checked ~ ul {
-        max-height: 350px;
+        max-height: 700px;
+        margin-bottom: 35px;
     }
     .menu-icon i {
         font-size: 1.7em;
