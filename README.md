@@ -2,7 +2,7 @@
 T1A3 Portfolio Assessment | Coder Academy Brisbane | March 2020 
 
 * Link to website - 
-* Link to Github repository - 
+* [Link to Github repository] - (https://github.com/Beedeeboom/portfolio)
 
 ## Purpose of the Website
 
