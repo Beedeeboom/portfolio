@@ -1,8 +1,8 @@
 # Stephanie Duffieux's Portfolio 
 T1A3 Portfolio Assessment | Coder Academy Brisbane | March 2020 
 
-* [Link to website](https://beedeeboom.github.io/stephanie-duffieux/)
-* [Link to Github repository](https://github.com/Beedeeboom/portfolio)
+* [Link to website](https://beedeeboom.github.io/stephanie-duffieux/) - https://beedeeboom.github.io/stephanie-duffieux/
+* [Link to Github repository](https://github.com/Beedeeboom/portfolio) - https://github.com/Beedeeboom/portfolio
 
 ## Purpose of the Website
 
@@ -10,16 +10,16 @@ The purpose of this portfolio website is to showcase my skills, as a developer a
 
 This website contains samples of my work during my time at Coder Academy as well as graphic design projects created for my clients. It also contains information about myself, my professional experience, my knowledge of programming languages and my blog, which narrates the story of my journey from my beginnings and long term career as an administrative and customer service professional to my new found passion and love for the world of design and web development.
 
-With beginner to intermediate skills in programming, my aim is to continue to build this website as I further develop my skills in web development, and to continue to add elements to my portfolio to create a variety of work examples that I could potentially showcase to my future employers or clients. 
+With beginner to intermediate skills in programming, my aim is to continue to build this website as I further develop my skills in web development, and to continue to add elements to my portfolio to create a variety of work samples that I could potentially showcase to my future employers or clients. 
 
 ## Functionality, Features & Style Guide
 
-The website contains six pages:
+The website contains 6 pages:
 
 1. Home page (index.html)
 2. About Me page (about.html)
 3. Portfolio page (portfolio.html)
-4. Resume page (resume.html)
+4. Resume page (opens PDF in new window)
 5. Blog Posts page (blog.html)
 6. Contact Me page (contact.html)
 
@@ -34,7 +34,8 @@ A style guide was established to ensure consistency accross all pages which shar
 
 ## Sitemap
 
-Work in progress
+![Sitemap](./docs/sitemap.jpg)
+
 
 ## Screenshots
 
@@ -57,9 +58,11 @@ This portfolio was built using:
 * Adobe Illustrator (vector images) 
 * Adobe Indesign for layouts (pdfs)
 * Adobe Photoshop (resizing images to web size)
-* Google fonts 
 * Github (source control & deployment)
 * draw.io (sitemap)
+* Google fonts
+* Font awesome
+* Devicons
 
 
 
