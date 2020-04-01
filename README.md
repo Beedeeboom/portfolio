@@ -30,18 +30,21 @@ The idea of also showcasing my freelance business within my portfolio, via my so
 
 All pages of the website are produced with a responsive layout that will display on desktop, mobile and tablet devices and have been built for accessibility to all users.
 
-A style guide was established to ensure consistency accross all pages which share a common theme. This also establishes a personal branding style that reflects who I am both at a personal and professional level. By using the style guide I can ensure that the fonts, colours and main graphics remain consistent accross the whole website. My personal branding consists of visual branding (professional photos) and my web developer logo. The overall look and feel aims to resonate with my own personality and values.  
+A style guide was established to ensure consistency accross all pages which share a common theme. This also establishes a personal branding style that reflects who I am both at a personal and professional level. By using the style guide I can ensure that the fonts, colours and main graphics remain consistent accross the whole website. My personal branding consists of visual branding (professional photos) and my web developer logo. The overall look and feel aims to resonate with my own personality and values. 
+
+![Style Guide](./docs/portfolio-mini-style-guide.pdf)
 
 ## Sitemap
 
-![Sitemap](./docs/sitemap.jpg)
+![Sitemap](./docs/sitemap.png)
 
-
-## Screenshots
+## Wireframe Mock-ups
 
 #### Mobile Wireframes
 
 ![Mobile Wireframe](./docs/mobile-wireframe.jpg)
+
+## Website Screenshots
 
 
 ## Target Audience
