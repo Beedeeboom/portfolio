@@ -4,17 +4,16 @@
 }
 
 .banner {
-    /* background: url(img/header-background.jpg) center; */
-    background: #000;
+    background: rgba(0,0,0,.70);
     width: 100%;
-    background-size: cover;
+    /* background-size: cover; */
 }
 
 /* Banner */
 
 .banner-text {
     display: flex;
-    padding: 15%;
+    padding: 10%;
 }
 
 .banner-text-items {
@@ -41,6 +40,7 @@
     display: flex;
     flex-flow: row wrap;
     padding: 5% 0;
+    background-color: #fff;
 }
 
 .main1  {

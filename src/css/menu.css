@@ -19,7 +19,6 @@ header {
 .brand {
     width: auto;
     height: 100%;
-    /* background: url(../img/coder_web_logo.png) no-repeat; */
     float: left;
     margin: 0 0 0 5%;
     color: #fff;
@@ -74,7 +73,7 @@ header {
         width: 100%;
         height: 50px;
         background-color: rgba(0,0,0,0.5);
-        padding: 10px 0px 10px 10%;
+        padding: 10px 10px 10px 10%;
     }
 
     .menu ul a:hover {
@@ -97,6 +96,7 @@ header {
         margin-bottom: 35px;
     }
     .menu-icon i {
-        font-size: 1.7em;
+        font-size: 1.5em;
     }
+
 }
