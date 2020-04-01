@@ -14,7 +14,7 @@ p {
 
 /* header 1 */
 .header1 {
-    margin: 100px 0 200px 120px;
+    margin: 50px 0 150px 120px;
     font-family: sans-serif;
 }
 
@@ -23,6 +23,20 @@ p {
     margin-top: 10px;
 }
 
+
+/* header 2 */
+
+.header2 {
+    margin: 50px 0 200px 120px;
+    padding: 20px  0px 0px 0px;
+    background: #fff;
+    font-family: sans-serif;
+}
+
+.header2 p {
+    width: 60%;
+    margin-top: 10px;
+}
 
 /* work */
 .work {
@@ -64,18 +78,6 @@ p {
 
 i {
     padding: 0px 10px 0px 10px;
-}
-
-/* header 2 */
-
-.header2 {
-    margin: 100px 0 200px 120px;
-    font-family: sans-serif;
-}
-
-.header2 p {
-    width: 60%;
-    margin-top: 10px;
 }
 
 
