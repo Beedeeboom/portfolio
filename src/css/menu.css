@@ -13,7 +13,7 @@ header {
     line-height: 50px;
     text-align: center;
     font-family: sans-serif;
-    background-color: #000;
+    background-color: #d66964;
     
 }
 .brand {
@@ -46,7 +46,7 @@ header {
 }
 .menu ul a:hover {
     background-color: #ecb7a9;
-    color: #000;
+    color: #d66964;
 }
 #menuToggle {
     display: none;
