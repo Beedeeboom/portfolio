@@ -6,11 +6,9 @@
 .banner {
     background: rgba(0,0,0,.70);
     width: 100%;
-    /* background-size: cover; */
 }
 
 /* Banner */
-
 .banner-text {
     display: flex;
     padding: 10%;
@@ -35,7 +33,6 @@
 }
 
 /* main contents */
-
 .main-content {
     display: flex;
     flex-flow: row wrap;
@@ -74,7 +71,6 @@
 }
 
 /* contact */
-
 .contact-items {
     display: flex;
     align-items: center;
