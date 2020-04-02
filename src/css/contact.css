@@ -30,3 +30,10 @@ input[type=text], select, textarea {
     padding: 100px 400px;
     font-family: sans-serif;
   }
+
+  @media screen and (max-width: 1024px) {
+    .container {
+      padding: 100px 50px;
+      font-family: sans-serif;
+    }
+  }

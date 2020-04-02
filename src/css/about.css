@@ -3,12 +3,12 @@
     padding: 0;
 }
 
+/* Banner */
 .banner {
     background: rgba(0,0,0,.70);
     width: 100%;
 }
 
-/* Banner */
 .banner-text {
     display: flex;
     padding: 10%;
@@ -134,7 +134,7 @@
         flex-direction: column;
         text-align: center;
     }
-    . logo {
+    .logo {
         padding: 18px 0 0;
     }
     .menu ul li {
