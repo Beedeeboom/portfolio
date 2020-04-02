@@ -27,6 +27,6 @@ input[type=text], select, textarea {
   .container {
     border-radius: 0px;
     background-color: #f5e7e4;
-    padding: 50px;
+    padding: 100px 400px;
     font-family: sans-serif;
   }
