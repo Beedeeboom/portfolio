@@ -1,7 +1,7 @@
 # Stephanie Duffieux's Portfolio 
 T1A3 Portfolio Assessment | Coder Academy Brisbane | March 2020 
 
-* [Link to website](https://beedeeboom.github.io/stephanie-duffieux/) - https://beedeeboom.github.io/stephanie-duffieux/
+* [Link to website](https://beedeeboom.github.io/stephanie-duffieux/) - https://beedeeboom.github.io/stephs-portfolio/
 * [Link to Github repository](https://github.com/Beedeeboom/portfolio) - https://github.com/Beedeeboom/portfolio
 
 ## Purpose of the Website
